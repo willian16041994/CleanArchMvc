@@ -1,0 +1,15 @@
+C:\PROJETOS--ESTUDOS\CleanArchMvc\CleanArchMvc.InfraData\bin\Debug\net5.0\CleanArchMvc.InfraData.deps.json
+C:\PROJETOS--ESTUDOS\CleanArchMvc\CleanArchMvc.InfraData\bin\Debug\net5.0\CleanArchMvc.InfraData.dll
+C:\PROJETOS--ESTUDOS\CleanArchMvc\CleanArchMvc.InfraData\bin\Debug\net5.0\ref\CleanArchMvc.InfraData.dll
+C:\PROJETOS--ESTUDOS\CleanArchMvc\CleanArchMvc.InfraData\bin\Debug\net5.0\CleanArchMvc.InfraData.pdb
+C:\PROJETOS--ESTUDOS\CleanArchMvc\CleanArchMvc.InfraData\bin\Debug\net5.0\CleanArchMvc.Domain.dll
+C:\PROJETOS--ESTUDOS\CleanArchMvc\CleanArchMvc.InfraData\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
+C:\PROJETOS--ESTUDOS\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net5.0\CleanArchMvc.InfraData.csproj.AssemblyReference.cache
+C:\PROJETOS--ESTUDOS\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net5.0\CleanArchMvc.InfraData.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS--ESTUDOS\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net5.0\CleanArchMvc.InfraData.AssemblyInfoInputs.cache
+C:\PROJETOS--ESTUDOS\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net5.0\CleanArchMvc.InfraData.AssemblyInfo.cs
+C:\PROJETOS--ESTUDOS\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net5.0\CleanArchMvc.InfraData.csproj.CoreCompileInputs.cache
+C:\PROJETOS--ESTUDOS\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net5.0\CleanArchMvc.InfraData.csproj.CopyComplete
+C:\PROJETOS--ESTUDOS\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net5.0\CleanArchMvc.InfraData.dll
+C:\PROJETOS--ESTUDOS\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net5.0\ref\CleanArchMvc.InfraData.dll
+C:\PROJETOS--ESTUDOS\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net5.0\CleanArchMvc.InfraData.pdb

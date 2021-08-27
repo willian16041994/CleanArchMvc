@@ -1,0 +1,334 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj": {}
+  },
+  "projects": {
+    "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+        "projectName": "CleanArchMvc.Application",
+        "projectPath": "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+        "packagesPath": "C:\\Users\\tijgr\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tijgr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+                "projectPath": "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "projectName": "CleanArchMvc.Domain",
+        "projectPath": "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "packagesPath": "C:\\Users\\tijgr\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tijgr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.InfraData\\CleanArchMvc.InfraData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.InfraData\\CleanArchMvc.InfraData.csproj",
+        "projectName": "CleanArchMvc.InfraData",
+        "projectPath": "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.InfraData\\CleanArchMvc.InfraData.csproj",
+        "packagesPath": "C:\\Users\\tijgr\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.InfraData\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tijgr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+                "projectPath": "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.InfraIoC\\CleanArchMvc.InfraIoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.InfraIoC\\CleanArchMvc.InfraIoC.csproj",
+        "projectName": "CleanArchMvc.InfraIoC",
+        "projectPath": "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.InfraIoC\\CleanArchMvc.InfraIoC.csproj",
+        "packagesPath": "C:\\Users\\tijgr\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.InfraIoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tijgr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
+                "projectPath": "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj"
+              },
+              "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+                "projectPath": "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+              },
+              "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.InfraData\\CleanArchMvc.InfraData.csproj": {
+                "projectPath": "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.InfraData\\CleanArchMvc.InfraData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
+        "projectName": "CleanArchMvc.WebUI",
+        "projectPath": "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
+        "packagesPath": "C:\\Users\\tijgr\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.WebUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tijgr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.InfraIoC\\CleanArchMvc.InfraIoC.csproj": {
+                "projectPath": "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.InfraIoC\\CleanArchMvc.InfraIoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
