@@ -65,7 +65,7 @@ namespace CleanArchMvc.Domain.Entities
 
             DomainExceptionValidation.When(
                                       image.Length > 250,
-                                     "Invaid image name, too long, maximum 250 characters "
+                                     "Invaid image name, too long, maximum 250 characters"
                                           );
 
             Name = name;
