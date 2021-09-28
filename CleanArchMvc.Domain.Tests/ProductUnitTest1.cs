@@ -3,7 +3,6 @@ using FluentAssertions;
 using System;
 using Xunit;
 
-
 namespace CleanArchMvc.Domain.Tests
 {
     public class ProductUnitTest1
