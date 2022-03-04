@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PNLpOpBCi/heMWWJz7qZibgXQIhYnW5xvUrbtad1g0YGHsnH+wBUezwTG0DKJ/HxH4l1nAuTLFuXryUkHE6hpQ==",
+  "dgSpecHash": "mJkditfk6AnK8rvABQ1DwvSPeAQ4hFbMz2HTULAVusjU2eQUxY5s3cvtYY66NmZqHUtESvYPGGk3UH8MSs9RzQ==",
   "success": true,
   "projectFilePath": "C:\\PROJETOS--ESTUDOS\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\tijgr\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\tijgr\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\tijgr\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.9\\microsoft.aspnetcore.mvc.razor.extensions.5.0.9.nupkg.sha512",
     "C:\\Users\\tijgr\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.9\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.9.nupkg.sha512",
@@ -75,7 +76,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.private.datacontractserialization\\4.3.0\\system.private.datacontractserialization.4.3.0.nupkg.sha512",
     "C:\\Users\\tijgr\\.nuget\\packages\\system.private.uri\\4.3.2\\system.private.uri.4.3.2.nupkg.sha512",
     "C:\\Users\\tijgr\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
-    "C:\\Users\\tijgr\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\tijgr\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\tijgr\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
     "C:\\Users\\tijgr\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "C:\\Users\\tijgr\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",
