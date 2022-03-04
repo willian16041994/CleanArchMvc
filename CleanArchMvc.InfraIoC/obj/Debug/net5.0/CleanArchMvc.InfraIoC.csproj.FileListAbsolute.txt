@@ -17,3 +17,6 @@ C:\PROJETOS--ESTUDOS\CleanArchMvc\CleanArchMvc.InfraIoC\obj\Debug\net5.0\CleanAr
 C:\PROJETOS--ESTUDOS\CleanArchMvc\CleanArchMvc.InfraIoC\obj\Debug\net5.0\CleanArchMvc.InfraIoC.dll
 C:\PROJETOS--ESTUDOS\CleanArchMvc\CleanArchMvc.InfraIoC\obj\Debug\net5.0\ref\CleanArchMvc.InfraIoC.dll
 C:\PROJETOS--ESTUDOS\CleanArchMvc\CleanArchMvc.InfraIoC\obj\Debug\net5.0\CleanArchMvc.InfraIoC.pdb
+C:\PROJETOS--ESTUDOS\CleanArchMvc\CleanArchMvc.InfraIoC\bin\Debug\net5.0\CleanArchMvc.InfraIoC.runtimeconfig.json
+C:\PROJETOS--ESTUDOS\CleanArchMvc\CleanArchMvc.InfraIoC\bin\Debug\net5.0\CleanArchMvc.InfraIoC.runtimeconfig.dev.json
+C:\PROJETOS--ESTUDOS\CleanArchMvc\CleanArchMvc.InfraIoC\obj\Debug\net5.0\CleanArchMvc.InfraIoC.genruntimeconfig.cache
